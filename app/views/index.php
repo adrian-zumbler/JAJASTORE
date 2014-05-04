@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Laravel PHP Framework</title>
-	<link rel="stylesheet" href="estilos.css">
+	<link rel="stylesheet" href="stylus/estilos.css">
 </head>
 <body>
 	<header class="header">
