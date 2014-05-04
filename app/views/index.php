@@ -82,4 +82,11 @@
 	</section>
 
 </body>
+
+<footer>
+	<meta name= "CopyRight" content ="Ejemplo" />
+	<address>
+		<a href="https://www.facebook.com/jairo.r.gomez"contactame></a>
+	</address>
+</footer>
 </html>
