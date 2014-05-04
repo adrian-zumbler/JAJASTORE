@@ -71,5 +71,15 @@
 			</p>
 		</article>
 	</section>
+
+	<section class="categorias">
+		<article class="article">
+			<h1>Categorias</h1>
+			<p class="texto">
+				Aqui van todas las categorias
+			</p>
+		</article>
+	</section>
+
 </body>
 </html>
