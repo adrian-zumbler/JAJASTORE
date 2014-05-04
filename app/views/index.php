@@ -9,12 +9,12 @@
 	<header class="header">
 		<nav class="barra-navegacion">
 			<ul class="menu">
-				<li class="item">Inicio</li>
-				<li class="item">Quienes somos</li>
-				<li class="item">Catalogo</li>
-				<li class="item">Categorias</li>
-				<li class="item">Registrate</li>
-				<li class="item">Inicia Sesion</li>
+				<li class="item"><a href="">Inicio</a></li>
+				<li class="item"><a href="">Quienes Somos</a></li>
+				<li class="item"><a href="">Catalogo</a></li>
+				<li class="item"><a href="">Categorias</a></li>
+				<li class="item"><a href="">Registrate</a></li>
+				<li class="item"><a href="">Inicio sesion</a></li>
 				
 			</ul>
 		</nav>
