@@ -31,13 +31,14 @@
 	</header>
 	<section class="quienes-somos">
 		<article class="article">
-			<h1>¿Quienes Somos?</h1>
+			<h1 class="title-section">¿Quienes somos?</h1>
 			<p class="texto">
 				
 			</p>
 		</article>
 	</section>
 	<section class="catalogo">
+		<h1 class="title-section">Catalogo</h1>
 		<article class="item-catalogo">
 			<figure class="img">
 				<img src="" alt="">
