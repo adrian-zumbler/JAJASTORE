@@ -37,5 +37,39 @@
 			</p>
 		</article>
 	</section>
+	<section class="catalogo">
+		<article class="item-catalogo">
+			<figure class="img">
+				<img src="" alt="">
+			</figure>
+			<p class="descripcion-catalogo">
+				Playeras
+			</p>
+		</article>
+		<article class="item-catalogo">
+			<figure class="img">
+				<img src="" alt="">
+			</figure>
+			<p class="descripcion-catalogo">
+				Chamarras
+			</p>
+		</article>
+		<article class="item-catalogo">
+			<figure class="img">
+				<img src="" alt="">
+			</figure>
+			<p class="descripcion-catalogo">
+				Gorros
+			</p>
+		</article>
+		<article class="item-catalogo">
+			<figure class="img">
+				<img src="" alt="">
+			</figure>
+			<p class="descripcion-catalogo">
+				Tennis
+			</p>
+		</article>
+	</section>
 </body>
 </html>
