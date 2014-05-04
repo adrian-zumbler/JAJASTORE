@@ -7,6 +7,17 @@
 </head>
 <body>
 	<header class="header">
+		<nav class="barra-navegacion">
+			<ul class="menu">
+				<li class="item">Inicio</li>
+				<li class="item">Quienes somos</li>
+				<li class="item">Catalogo</li>
+				<li class="item">Categorias</li>
+				<li class="item">Registrate</li>
+				<li class="item">Inicia Sesion</li>
+				
+			</ul>
+		</nav>
 		<div class="carrusel">
 			<figure class="img-carrucel">
 				<img src="" alt="">
@@ -19,15 +30,7 @@
 				<div>.</div>
 			</div>
 		</div>
-		<nav class="barra-navegacion">
-			<ul class="menu">
-				<li class="item">Inicio</li>
-				<li class="item">Quienes somos</li>
-				<li class="item">Catalogo</li>
-				<li class="item">Categorias</li>
-				<li class="item">Acerca de</li>
-			</ul>
-		</nav>
+		
 	</header>
 	<section class="quienes-somos">
 		<article class="article">
