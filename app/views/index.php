@@ -86,7 +86,11 @@
 <footer>
 	<meta name= "CopyRight" content ="Ejemplo" />
 	<address>
-		<a href="https://www.facebook.com/jairo.r.gomez"contactame></a>
+		<a href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo)</a>
+		<a href="https://www.facebook.com/AldoRuizG"> Contactame (Aldo)</a>
+		<a href="https://www.facebook.com/zumbler"> Contactame (Adrian)</a>
+		<a href="https://www.facebook.com/Jared.Quezada.Telles"> Contactame (Jared)</a>
+
 	</address>
 </footer>
 </html>
