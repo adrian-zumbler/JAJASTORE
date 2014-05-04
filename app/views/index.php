@@ -9,7 +9,7 @@
 	<header class="header">
 		<nav class="barra-navegacion">
 			<ul class="menu">
-				<li class="item"><a href="">Inicio</a></li>
+				<li class="item"><a href="">JajaStore</a></li>
 				<li class="item"><a href="">Quienes Somos</a></li>
 				<li class="item"><a href="">Catalogo</a></li>
 				<li class="item"><a href="">Categorias</a></li>
@@ -20,14 +20,16 @@
 		</nav>
 		<div class="carrusel">
 			<figure class="img-carrucel">
-				<img src="" alt="">
+				<img src="img/carrucel1.jpg" alt="">
 			</figure>
 			<div class="botones-navegacion">
-				<div>.</div>
-				<div>.</div>
-				<div>.</div>
-				<div>.</div>
-				<div>.</div>
+				<a href=""><span><img src="img/punto.jpg" width="15px" height="15px" alt=""></span></a>
+				<a href=""><span><img src="img/punto.jpg" width="15px" height="15px" alt=""></span></a>
+				<a href=""><span><img src="img/punto.jpg" width="15px" height="15px" alt=""></span></a>
+				<a href=""><span><img src="img/punto.jpg" width="15px" height="15px" alt=""></span></a>
+				<a href=""><span><img src="img/punto.jpg" width="15px" height="15px" alt=""></span></a>
+				
+				
 			</div>
 		</div>
 		
