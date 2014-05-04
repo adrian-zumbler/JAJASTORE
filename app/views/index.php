@@ -92,7 +92,7 @@
 <footer>
 	<meta name= "CopyRight" content ="Ejemplo" />® 2014 JajaStore, CopyRight<br/>
 	Diseño de página web, contenido y diseño de productos son propiedad de JajaStore y no pueden<br>
-	utilizados para cualquier proposito sin consentimiento por escrito de JajaStore
+	ser utilizados para cualquier proposito sin consentimiento por escrito de JajaStore
 	</meta>
 	<address>
 		<a img src="img/fb.png" width = "20px" height = "20px" href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo)</a> -
