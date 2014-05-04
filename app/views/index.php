@@ -88,17 +88,19 @@
 		</article>
 		</div>
 	</section>
-
-</body>
-
-<footer>
-	<meta name= "CopyRight" content ="Ejemplo" />
-	<address>
-		<a href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo) -
-		<a href="https://www.facebook.com/AldoRuizG"> Contactame (Aldo) -
-		<a href="https://www.facebook.com/zumbler"> Contactame (Adrian) -
+<address>
+		<a img src="img/fb.jpg" width = "20px" height = "20px" href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo)</a> -
+		<a href="https://www.facebook.com/AldoRuizG"> Contactame (Aldo)</a> -
+		<a href="https://www.facebook.com/zumbler"> Contactame (Adrian)</a> -
 		<a href="https://www.facebook.com/Jared.Quezada.Telles"> Contactame (Jared)</a>
 
 	</address>
+</body>
+
+<footer>
+	<meta name= "CopyRight" content ="Ejemplo" />® 2014 JajaStore, CopyRight<br/>
+	Diseño de página web, contenido y diseño de productos son propiedad de JajaStore y no pueden<br>
+	ser utilizados para cualquier proposito sin consentimiento por escrito de JajaStore
+	</meta>
 </footer>
 </html>
