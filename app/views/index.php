@@ -29,5 +29,13 @@
 			</ul>
 		</nav>
 	</header>
+	<section class="quienes-somos">
+		<article class="article">
+			<h1>¿Quienes Somos?</h1>
+			<p class="texto">
+				
+			</p>
+		</article>
+	</section>
 </body>
 </html>
