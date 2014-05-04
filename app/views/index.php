@@ -74,12 +74,14 @@
 	</section>
 
 	<section class="categorias">
-		<article class="article">
+		<div class="ima-cat">
+		<article class="art">
 			<h1>Categorias</h1>
 			<p class="texto">
 				Aqui van todas las categorias
 			</p>
 		</article>
+		</div>
 	</section>
 
 </body>
