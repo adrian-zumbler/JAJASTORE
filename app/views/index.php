@@ -86,7 +86,13 @@
 		</article>
 		</div>
 	</section>
+<address>
+		<a img src="img/fb.jpg" width = "20px" height = "20px" href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo)</a> -
+		<a href="https://www.facebook.com/AldoRuizG"> Contactame (Aldo)</a> -
+		<a href="https://www.facebook.com/zumbler"> Contactame (Adrian)</a> -
+		<a href="https://www.facebook.com/Jared.Quezada.Telles"> Contactame (Jared)</a>
 
+	</address>
 </body>
 
 <footer>
@@ -94,12 +100,5 @@
 	Diseño de página web, contenido y diseño de productos son propiedad de JajaStore y no pueden<br>
 	ser utilizados para cualquier proposito sin consentimiento por escrito de JajaStore
 	</meta>
-	<address>
-		<a img src="img/fb.jpg" width = "20px" height = "20px" href="https://www.facebook.com/jairo.r.gomez">Contactame (Jairo)</a> -
-		<a href="https://www.facebook.com/AldoRuizG"> Contactame (Aldo)</a> -
-		<a href="https://www.facebook.com/zumbler"> Contactame (Adrian)</a> -
-		<a href="https://www.facebook.com/Jared.Quezada.Telles"> Contactame (Jared)</a>
-
-	</address>
 </footer>
 </html>
